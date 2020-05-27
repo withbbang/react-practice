@@ -1,0 +1,5 @@
+* hook으로 componentDidMount 사용하는법
+
+  useEffect(()=>{
+    //to do
+  });
